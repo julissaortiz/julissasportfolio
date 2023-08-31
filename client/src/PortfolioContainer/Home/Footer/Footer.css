@@ -16,9 +16,19 @@
   height: 100px;
 }
 .palabras {
-  color: brown;
+  color: black;
   background-color: pink;
-  height: 500px;
+  height: 130px;
+}
+.contact-me {
+  color: black;
+  background-color: bisque;
+  height: 90px;
+}
+.palabras-2 {
+  color: black;
+  background-color: bisque;
+  height: 400px;
 }
 @media only screen and (max-width: 1110px) {
   .footer-parent {
