@@ -1,6 +1,9 @@
 ## Julissa's Portfolio
 
+https://github.com/julissaortiz/julissasportfolio/tree/master/client
+
 ![Screenshot](./pictures/screenshot.png)
+
 
 ## User Story
 
