@@ -1,6 +1,7 @@
 ## Julissa's Portfolio
 
 https://github.com/julissaortiz/julissasportfolio/tree/master/client
+https://julissaortiz.github.io/julissasportfolio/
 
 ![Screenshot](./pictures/screenshot.png)
 
